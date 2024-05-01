@@ -1,0 +1,3 @@
+user.editor=vim
+credential.helper=store
+alias.history=log --graph
