@@ -1,3 +1,6 @@
-core.editor=vim
-credential.helper=store
-alias.history=log --graph
+[core]
+	editor=vim
+[credential]
+	helper=store
+[alias]
+	history=log --graph
